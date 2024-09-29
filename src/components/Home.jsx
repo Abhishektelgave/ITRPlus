@@ -40,7 +40,7 @@ const Home = () => {
         <p className="text-lg">The ultimate platform for first-time tax filers to file their returns hassle-free!</p>
       </div>
       <img
-        src="/Blog-post-ITR..png"
+        src="/ITRPlus/Blog-post-ITR..png"
         alt="Tax Filing"
         className="hero-image w-2/5 mt-8 rounded-lg shadow-lg"
       />
@@ -51,7 +51,7 @@ const Home = () => {
           Our platform provides end-to-end tax filing support for first-time users and new earners, backed by experienced Chartered Accountants.
         </p>
         <img
-          src="/ICI-Slider-Image-Income-Tax-Filing.png"
+          src="/ITRPlus/ICI-Slider-Image-Income-Tax-Filing.png"
           alt="Tax Partner"
           className="w-2/4 mx-auto"
         />
@@ -60,12 +60,12 @@ const Home = () => {
       <div className="parallax-section mt-16 p-12 ">
         <h2 className="text-3xl font-bold text-gray-800">Process</h2>
         <img
-          src="/111.png"
+          src="/ITRPlus/111.png"
           alt="ITR+ Overview"
           className="overview-image w-2/4 mt-8 rounded-lg mx-auto shadow-lg"
         />
         <img
-          src="/222.png"
+          src="/ITRPlus/222.png"
           alt="ITR+ Overview"
           className="overview-image w-2/4 mt-8 rounded-lg mx-auto shadow-lg"
         />
