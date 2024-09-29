@@ -25,15 +25,15 @@ const AboutUs = () => {
         <h3 className="text-3xl font-bold text-gray-700">Meet Our Team</h3>
         <div className="team-images flex justify-center space-x-8 mt-8">
           <div className="team1 flex flex-col items-center justify-center gap-2">
-            <img src="/pp.webp" alt="Team Member 1" className="rounded-full w-40 h-40" />
+            <img src="/ITRPlus/pp.webp" alt="Team Member 1" className="rounded-full w-40 h-40" />
             <h3 className="text-xl text-gray-700">Laxmikant Biradar [Founder]</h3>
           </div>
           <div className="team2 flex flex-col items-center justify-center gap-2">
-            <img src="/pp.webp" alt="Team Member 1" className="rounded-full w-40 h-40" />
+            <img src="/ITRPlus/pp.webp" alt="Team Member 1" className="rounded-full w-40 h-40" />
             <h3 className="text-xl text-gray-700">Abhishek Telagave [Developer]</h3>
           </div>
           <div className="team3 flex flex-col items-center justify-center gap-2">
-            <img src="/pp.webp" alt="Team Member 1" className="rounded-full w-40 h-40" />
+            <img src="/ITRPlus/pp.webp" alt="Team Member 1" className="rounded-full w-40 h-40" />
             <h3 className="text-xl text-gray-700">The BVSS Members [community]</h3>
           </div>
         </div>
