@@ -19,7 +19,7 @@ const ITRPlusOverview = () => {
         </p>
       </div>
       <img
-        src="\Benefits-of-Filing-Income-Tax-Return-min.png"
+        src="/ITRPlus/Benefits-of-Filing-Income-Tax-Return-min.png"
         alt="ITR+ Overview"
         className="overview-image w-2/5 mt-8 rounded-lg mx-auto shadow-lg"
       />
